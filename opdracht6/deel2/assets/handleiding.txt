@@ -1,0 +1,27 @@
+Handleiding voor het Doolhofspel
+
+Doel van het spel: Het doel is om als speler (*) door het doolhof te navigeren, 
+vier schatten ($) te verzamelen en de vallen (X) en valhekken (H) te vermijden. 
+Het spel is voorbij wanneer je alle schatten hebt verzameld of wanneer je in een val terechtkomt.
+Besturing:
+    Om het spe lte beginnen moet je eerst maken en daarna dit in de terminal zetten: 
+        ./spel
+
+    Gebruik de pijltjestoetsen om door het doolhof te bewegen:
+        Pijl omhoog: Beweeg naar boven.
+        Pijl omlaag: Beweeg naar beneden.
+        Pijl links: Beweeg naar links.
+        Pijl rechts: Beweeg naar rechts.
+
+Spelregels:
+
+    Verzamelen van schatten ($): Je moet alle acht de schatten verzamelen om het spel te winnen. 
+    Elke keer als je een schat verzamelt, krijg je een quizvraag. Als je de vraag goed beantwoordt, krijg je de schat. 
+    Zo niet, wordt de schat willekeurig verplaatst naar een andere plek in het doolhof.
+    Belangrijk: druk alleen op a, b of c op je toetsenbord bij een vraag ander is hij automatisch fout.
+
+    Vallen (X): Als je op een val (X) terechtkomt, verlies je direct het spel.
+
+    Valhekken (H): Valhekken zijn doorgangen die je slechts één keer kunt passeren. Zodra je er doorheen bent gegaan, kan je niet meer terug door hetzelfde hek.
+
+    Muren (#): De muren zijn ondoordringbaar, je kunt hier niet doorheen bewegen.
